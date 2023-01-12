@@ -24,4 +24,5 @@ const assertNotEquals = (expectedOutput, actualOutput) =>
 module.exports = {
   assertEquals,
   assertTrue,
+  assertFalse,
 };
